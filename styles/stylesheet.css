@@ -14,6 +14,12 @@ a
 	text-decoration: none;
 }
 
+body
+{
+	width: 860px;
+	margin: auto;
+}
+
 /***************** HEADER *************/
 
 header
@@ -110,7 +116,7 @@ article
 
 .filler
 {
-	height: 10.45em;
+	height: 12.85em;
 	background-color: #57BEDF;
 }
 
